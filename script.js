@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
   updateDayOfTheWeek();
   updateUTCTime();
 
-  githubUrl.href = "https://github.com/whitechapel007";
+  githubUrl.href = "https://github.com/whitechapel007/task-001";
 
   myTrack.textContent = "Frontend"; // Change this to your actual track
 });
